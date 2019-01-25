@@ -1,2 +1,5 @@
 # Suzukimotoe2018
 鈴木本江プロジェクト2018年
+
+このアプリはAndroidStudioで制作しました。開発言語はKotlinでAPI25以上で動作させてください。
+

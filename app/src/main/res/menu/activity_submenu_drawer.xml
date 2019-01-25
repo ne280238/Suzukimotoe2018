@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_zikanwari"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="@string/zikanwari" />
+        <item
+            android:id="@+id/nav_kougitouroku"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="@string/kougitouroku" />
+        <item
+            android:id="@+id/nav_userinfo"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/userinfo" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

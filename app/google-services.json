@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "392927194009",
+    "firebase_url": "https://suzukimoepro.firebaseio.com",
+    "project_id": "suzukimoepro",
+    "storage_bucket": "suzukimoepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392927194009:android:e043e2a8331928da",
+        "android_client_info": {
+          "package_name": "com.example.hyuma.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392927194009-ppit36b8v7b8rdavor8cgf9gj1iv1dq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnflcJtoLNN1RfdBw2zS3AjmGgtUGLNzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392927194009:android:792568c59409eb40",
+        "android_client_info": {
+          "package_name": "com.suzukimotoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392927194009-ppit36b8v7b8rdavor8cgf9gj1iv1dq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnflcJtoLNN1RfdBw2zS3AjmGgtUGLNzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392927194009:android:7371a5406226fb35",
+        "android_client_info": {
+          "package_name": "com.suzukimotoe.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392927194009-ppit36b8v7b8rdavor8cgf9gj1iv1dq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnflcJtoLNN1RfdBw2zS3AjmGgtUGLNzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
